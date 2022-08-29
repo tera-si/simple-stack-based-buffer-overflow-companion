@@ -5,7 +5,7 @@ Based on Tib3rius' [wonderful
 tutorial](https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/exploits/buffer-overflows.rst)
 and [lab](https://tryhackme.com/room/bufferoverflowprep).
 
-This script suite does not auto exploit. Just modified such that there are few
+This script suite does not auto exploit. Just modified such that there are fewer
 things you needed to change in the various steps. Less time needed to edit the scripts, more time
 for hacking.
 
