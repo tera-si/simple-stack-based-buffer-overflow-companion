@@ -82,7 +82,7 @@ sock.recv(1024)
 ```
 $ python3 main.py -s 1 10.10.196.4 1337
 ################################################################################
-# Simple Stack Based Buffer Overflow Companion v0.1                            #
+# Simple Stack Based Buffer Overflow Companion v1.0                            #
 # Based on tutorial and lab by Tib3rius                                        #
 # https://github.com/Tib3rius/Pentest-Cheatsheets                              #
 # https://tryhackme.com/room/bufferoverflowprep                                #
@@ -122,7 +122,7 @@ And then
 ```
 $ python3 main.py -s 2 10.10.196.4 1337
 ################################################################################
-# Simple Stack Based Buffer Overflow Companion v0.1                            #
+# Simple Stack Based Buffer Overflow Companion v1.0                            #
 # Based on tutorial and lab by Tib3rius                                        #
 # https://github.com/Tib3rius/Pentest-Cheatsheets                              #
 # https://tryhackme.com/room/bufferoverflowprep                                #
@@ -149,7 +149,7 @@ offset = 634
 ```
 $ python3 main.py -s 3 10.10.196.4 1337
 ################################################################################
-# Simple Stack Based Buffer Overflow Companion v0.1                            #
+# Simple Stack Based Buffer Overflow Companion v1.0                            #
 # Based on tutorial and lab by Tib3rius                                        #
 # https://github.com/Tib3rius/Pentest-Cheatsheets                              #
 # https://tryhackme.com/room/bufferoverflowprep                                #
@@ -173,7 +173,7 @@ Then
 ```
 $ python3 main.py -s 4 10.10.196.4 1337
 ################################################################################
-# Simple Stack Based Buffer Overflow Companion v0.1                            #
+# Simple Stack Based Buffer Overflow Companion v1.0                            #
 # Based on tutorial and lab by Tib3rius                                        #
 # https://github.com/Tib3rius/Pentest-Cheatsheets                              #
 # https://tryhackme.com/room/bufferoverflowprep                                #
@@ -249,7 +249,7 @@ And then
 ```
 $ python3 main.py -s 5 10.10.196.4 1337
 ################################################################################
-# Simple Stack Based Buffer Overflow Companion v0.1                            #
+# Simple Stack Based Buffer Overflow Companion v1.0                            #
 # Based on tutorial and lab by Tib3rius                                        #
 # https://github.com/Tib3rius/Pentest-Cheatsheets                              #
 # https://tryhackme.com/room/bufferoverflowprep                                #
