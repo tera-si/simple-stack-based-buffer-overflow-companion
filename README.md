@@ -192,7 +192,7 @@ $ python3 main.py -s 4 10.10.196.4 1337
 [i] Repeat until there is no longer any bad characters
 ```
 
-Note the ESP register in Immunity, and then run `!mona compare -f
+Note the ESP register in Immunity, e.g. 12345678, and then run `!mona compare -f
 path\to\bytearray.bin -a 12345678`
 
 (If you did not set a working directory for Immunity, you can just run `!mona
